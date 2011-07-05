@@ -1,1 +1,5 @@
 web-app/WEB-INF
+.link_to_grails_plugins
+target
+*.class
+stacktrace.log
